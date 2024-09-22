@@ -1,5 +1,5 @@
 <div align ="center">
-  <img src="https://github.com/organizations/Celestix-Core/settings/profile" width = "350px"/>
+  <img src="https://github.com/Celestix-Core/Projeto_POO/blob/main/ICONS/logocelestixcore1.jpg" width = "350px"/>
   </div>
  
 # Sobre nós:
