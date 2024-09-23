@@ -16,7 +16,7 @@
   </h4>
   
 # Missão:
-<img align='right' src='' width='200'>
+<img align='right' src='https://github.com/CatBoxArtsCo/.github/assets/101335613/029c2048-c4b7-42d2-9c52-f54681c60d78' width='200'>
  <h3 align="left">Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira mais fácil e rápida, com a calculadora de IMC. Além disso, levar lazer as pessoas, por meio de um jogo clássico.</h3>
   
 # Visão:
