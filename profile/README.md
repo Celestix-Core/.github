@@ -16,14 +16,15 @@
   </h4>
   
 # Missão:
-<img align='right' src='https://github.com/CatBoxArtsCo/.github/assets/101335613/029c2048-c4b7-42d2-9c52-f54681c60d78' width='200'>
+<img align='right' src='' width='200'>
  <h3 align="left">Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira mais fácil e rápida, com a calculadora de IMC. Além disso, levar lazer as pessoas, por meio de um jogo clássico.</h3>
   
 # Visão:
 <h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
 
 # Valores:
-<h3>1. Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
+<img align='right' src='https://github.com/Celestix-Core/Projeto_POO/blob/main/ICONS/Estrela%20(1).png' width='100'>
+<h3 align="left">1. Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
 </h3>
 <h3>2. Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
 </h3>
