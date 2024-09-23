@@ -16,7 +16,7 @@
   </h4>
   
 # Missão:
-<h3>Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira maias fácil e rápida, com a calculadora de IMC. Além disso, levaro lazer as pessoas, por meio de um jogo clássico.</h3>
+<h3>Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira mais fácil e rápida, com a calculadora de IMC. Além disso, levar lazer as pessoas, por meio de um jogo clássico.</h3>
   
 # Visão:
 <h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
